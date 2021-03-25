@@ -1,0 +1,11 @@
+{
+  "name": "mina.js",
+  "version": "0.1.0",
+  "description": "A simple, modularized and lightweight injective MinaProtocol API library.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mina", "minajs", "mina protocol"],
+  "author": "stoll",
+  "license": "ISC"
+}
